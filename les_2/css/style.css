@@ -1,0 +1,18 @@
+body {
+   background-color: rgb(228, 194, 255);
+}
+p{
+   color: rgb(158, 22, 109);
+}
+a{
+   text-decoration: none;
+}
+
+img{
+   width:250px; border-radius: 1000px;
+}
+
+
+ul {
+   list-style: square; /* Квадрат в качестве маркера */
+  }

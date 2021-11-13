@@ -1,0 +1,67 @@
+.future{
+   background-color: plum;
+   width: 850px;
+   height: 300px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.bebra{
+   background-color: mediumslateblue;
+   width: 130px;
+   height: 150px;
+   float: left;
+   /* margin: 30px 20px 40px 10px; */
+}
+.bebra{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.conteiner{
+
+max-width: 1200px;
+
+width: 100%;
+}
+.header-inner{
+   background-color: black;
+   width: 100%;
+   height: 50px;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

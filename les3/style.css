@@ -1,0 +1,15 @@
+th {
+   background: rgb(230, 186, 255)
+}
+table{
+   border-collapse: collapse;
+}
+table td,table th {
+   border: 2px solid black;
+}
+td:hover { border: 4px solid rgb(190, 252, 218)
+   }
+   table {
+      height: 200px;
+      background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+      }
